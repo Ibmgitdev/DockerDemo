@@ -1,5 +1,5 @@
 cd /
-cd /Users/PradeepKurmi/Desktop/DockerDemo
+cd c:/Users/PradeepKurmi/Desktop/DockerDemo
 docker stop helloworld
 docker rm helloworld
 docker build -t hello-world /user/PradeepKurmi/Desktop/DockerDemo
